@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//app/Lanzador.java=UTF-8
+encoding//src/dataAccess/DatabaseManager.java=UTF-8
+encoding//src/domain/Instalacion.java=UTF-8
+encoding//src/domain/Socio.java=UTF-8
+encoding//src/otros/SesionTableModel.java=UTF-8
+encoding//src/presentacion/AnadirTarjetaGUI.java=UTF-8
+encoding//src/presentacion/ConsultarSesionesGUI.java=UTF-8
+encoding//src/presentacion/CrearActividadGUI.java=UTF-8
+encoding//src/presentacion/HacerLoginGUI.java=UTF-8
+encoding//src/presentacion/PrincipalGUI.java=UTF-8
+encoding//src/presentacion/ReservarSesionesGUI.java=UTF-8
+encoding/<project>=windows-31j

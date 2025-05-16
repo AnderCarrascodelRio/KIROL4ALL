@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-14 23:57:31 #1 store] 
+Database 'C:\Users\ander\eclipse-workspace\KIROL4ALL\kirol.odb' is opened by 6112@AnderPC
+
+[2025-05-14 23:57:31 #2 store] 
+Configuration path: ?
+
+[2025-05-14 23:57:31 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-14 23:57:31 #4 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-14 23:57:31 #5 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-14 23:57:31 #6 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-14 23:57:31 #7 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-14 23:57:31 #8 type] 
+Type domain.Instalacion is not enhanced.
+
