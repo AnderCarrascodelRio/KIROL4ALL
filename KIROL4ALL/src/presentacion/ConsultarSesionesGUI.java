@@ -1,11 +1,9 @@
 package presentacion;
 
-import java.awt.EventQueue;
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
-import javax.swing.table.DefaultTableModel;
 
 import domain.Sesion;
 import logicanegocio.ConsultarSesiones;
@@ -15,9 +13,7 @@ import javax.swing.JLabel;
 import java.awt.Font;
 import java.util.List;
 
-import javax.swing.JList;
 import javax.persistence.EntityManager;
-import javax.swing.DefaultListModel;
 import javax.swing.JButton;
 import javax.swing.JTextArea;
 import javax.swing.JScrollPane;

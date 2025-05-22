@@ -1,6 +1,5 @@
 package presentacion;
 
-import java.awt.EventQueue;
 
 import javax.persistence.EntityManager;
 import javax.swing.JFrame;
@@ -8,7 +7,6 @@ import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
 import domain.Factura;
-import domain.Reserva;
 import logicanegocio.ConsultarFacturas;
 
 import javax.swing.DefaultListModel;
@@ -16,7 +14,6 @@ import javax.swing.JButton;
 import java.awt.Font;
 import java.util.List;
 
-import javax.swing.JScrollPane;
 import javax.swing.JList;
 import javax.swing.JLabel;
 import java.awt.Color;

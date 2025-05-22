@@ -1,6 +1,5 @@
 package presentacion;
 
-import java.awt.EventQueue;
 
 import javax.persistence.EntityManager;
 import javax.swing.JFrame;

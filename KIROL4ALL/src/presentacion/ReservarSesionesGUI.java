@@ -1,17 +1,14 @@
 package presentacion;
 
-import java.awt.EventQueue;
 
 import javax.persistence.EntityManager;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
-import domain.Reserva;
 import domain.Sesion;
 import logicanegocio.ReservarSesiones;
 
-import javax.swing.JTable;
 import javax.swing.JButton;
 import java.awt.Font;
 import javax.swing.JTextArea;

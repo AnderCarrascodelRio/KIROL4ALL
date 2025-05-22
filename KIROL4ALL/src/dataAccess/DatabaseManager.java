@@ -1,7 +1,7 @@
 package dataAccess;
 import javax.persistence.*;
 
-import java.awt.GraphicsConfiguration;
+
 import java.time.*;
 
 import domain.*;
@@ -12,7 +12,7 @@ public class DatabaseManager {
 	String fileName = "kirol.odb";
 	
 	public DatabaseManager() {
-		emf = Persistence.createEntityManagerFactory("objectdb:"+fileName);
+		emf = Persistence.createEntityManagerFactory("kirol4all");
 		db = emf.createEntityManager();
 		System.out.println("Base de datos abierta.");
 	}
@@ -20,19 +20,23 @@ public class DatabaseManager {
 	public void initializeDB() {
 		db.getTransaction().begin();
 		//Socios/Encargados
-		Socio socio1 = new Socio("Ander", "79124433V", "12345");
-		Socio socio2 = new Socio("Maria", "21436587T", "12345");
-		Socio socio3 = new Socio("Mikel", "84125561G", "12345");
-		Encargado encargado1 = new Encargado("Cristian", "11111111A", "12345");
-		Encargado encargado2 = new Encargado("Iñaki", "24313122Z", "12345");
-		db.persist(socio1); db.persist(socio2); db.persist(socio3); db.persist(encargado1); db.persist(encargado2);
+		if (db.find(Actividad.class, "Judo") == null) {
+			Socio socio1 = new Socio("Ander", "79124433V", "12345");
+			Socio socio2 = new Socio("Maria", "21436587T", "12345");
+			Socio socio3 = new Socio("Mikel", "84125561G", "12345");
+			Encargado encargado1 = new Encargado("Cristian", "11111111A", "12345");
+			Encargado encargado2 = new Encargado("Iñaki", "24313122Z", "12345");
+			db.persist(socio1); db.persist(socio2); db.persist(socio3); 
 		
 		//Instalaciones
 		Instalacion instalacion1 = new Instalacion("Tatami", 20);
 		Instalacion instalacion2 = new Instalacion("Pistas de Ténis", 8);
 		Instalacion instalacion3 = new Instalacion("Piscina Olímpica", 50);
 		Instalacion instalacion4 = new Instalacion("Sauna", 4);
+		encargado1.agregarInstalacion(instalacion1); encargado1.agregarInstalacion(instalacion2);
+		encargado2.agregarInstalacion(instalacion3); encargado2.agregarInstalacion(instalacion4);
 		db.persist(instalacion1); 		db.persist(instalacion2); 		db.persist(instalacion3); 		db.persist(instalacion4);
+		db.persist(encargado1); db.persist(encargado2);
 
 		//Actividades
 		Actividad actividad1 = new Actividad("Sauna", 1, 2.50);
@@ -102,8 +106,9 @@ public class DatabaseManager {
 		Factura factura1 = new Factura(20.0); Factura factura2 = new Factura(10.0);
 		socio1.agregarFactura(factura1); socio1.agregarFactura(factura2);
 		db.persist(factura2);db.persist(factura1);
-		
+		}
 		db.getTransaction().commit();
+		
 	}
 	
 	public void limpiarBD() {

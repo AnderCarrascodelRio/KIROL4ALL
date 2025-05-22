@@ -28,4 +28,27 @@ public class Actividad {
 	public String getNombre() {
 		return nombre;
 	}
+	public int getExigencia() {
+		return exigencia;
+	}
+	public double getPrecioHora() {
+		return precioHora;
+	}
+	public List<Sesion> getSesiones() {
+		return sesiones;
+	}
+	
+	public void setNombre(String n) {
+		nombre=n;
+	}
+	
+	public void setExigencia(int ex) {
+		exigencia = ex;
+	}
+	public void setPrecioHora(double p) {
+		precioHora = p;
+	}
+	public void setSesiones(List<Sesion> l) {
+		sesiones = l;
+	}
 }

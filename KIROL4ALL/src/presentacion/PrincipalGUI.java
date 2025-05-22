@@ -9,8 +9,7 @@ import javax.swing.border.EmptyBorder;
 import javax.swing.JLabel;
 import java.awt.Font;
 import javax.swing.JButton;
-import java.awt.event.ActionListener;
-import java.awt.event.ActionEvent;
+
 
 public class PrincipalGUI extends JFrame {
 
@@ -68,7 +67,7 @@ public class PrincipalGUI extends JFrame {
 		if (rol.equals("socio")) {
 			btnCrearActividad.setEnabled(false);
 		}
-		btnCrearActividad.addActionListener(e -> abrirCrearActividad(db, id, rol));
+		btnCrearActividad.addActionListener(e -> abrirCrearActividad(db, id));
 		
 		JButton btnPlanificarSesion = new JButton("Planificar Sesiones");
 		btnPlanificarSesion.setFont(new Font("Tahoma", Font.PLAIN, 12));
@@ -77,7 +76,7 @@ public class PrincipalGUI extends JFrame {
 		if (rol.equals("socio")) {
 			btnPlanificarSesion.setEnabled(false);
 		}
-		btnPlanificarSesion.addActionListener(e -> abrirPlanificarSesiones(db, id, rol));
+		btnPlanificarSesion.addActionListener(e -> abrirPlanificarSesiones(db, id));
 	}
 	
 	private void abrirReservarSesiones(EntityManager db, int id, String rol) {
@@ -100,13 +99,13 @@ public class PrincipalGUI extends JFrame {
 		setVisible(false);
 	}
 	
-	private void abrirCrearActividad(EntityManager db, int id, String rol) {
-		new CrearActividadGUI (this, db, id, rol);
+	private void abrirCrearActividad(EntityManager db, int id) {
+		new CrearActividadGUI (this, db, id);
 		setVisible(false);
 	}
 	
-	private void abrirPlanificarSesiones(EntityManager db, int id, String rol) {
-		new PlanificarSesionesGUI(this, db, id, rol);
+	private void abrirPlanificarSesiones(EntityManager db, int id) {
+		new PlanificarSesionesGUI(this, db, id);
 		setVisible(false);
 	}
 	

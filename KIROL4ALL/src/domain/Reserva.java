@@ -1,6 +1,5 @@
 package domain;
-import java.time.LocalDateTime;
-import java.util.Date;
+ import java.util.Date;
 import otros.Estado;
 import javax.persistence.*;
 
@@ -60,7 +59,7 @@ public class Reserva {
 	
 	@Override
 	public String toString() {
-		return numReserva + " " + sesion.getActividad().getNombre() + " " + sesion.getFechaInicio().getDayOfMonth() + "/" +
-				sesion.getFechaInicio().getMonthValue() + " " + sesion.getFechaInicio().getHour() + ":00" + sesion.getInstalacion().getNombre();
+		return "ID: " + numReserva + " " + sesion.getActividad().getNombre() + " Día:" + sesion.getFechaInicio().getDayOfMonth() + "/" +
+				sesion.getFechaInicio().getMonthValue() + " Hora:" + sesion.getFechaInicio().getHour() + ":00 Lugar:" + sesion.getInstalacion().getNombre();
 	}
 }

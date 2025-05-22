@@ -1,5 +1,4 @@
 package domain;
-import java.awt.Component;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -60,4 +59,7 @@ public class Socio {
 		return facturas;
 	}
 	
+	public int getNumSocio() {
+		return numSocio;
+	}
 }

@@ -10,12 +10,10 @@ import domain.Instalacion;
 public class CrearActividad {
 	CrearActividadDAO dataAccess;
 	int id;
-	String rol;
 	
-	public CrearActividad(EntityManager db, int i, String r) {
+	public CrearActividad(EntityManager db, int i) {
 		dataAccess = new CrearActividadDAO(db);
 		id = i;
-		rol = r;
 	}
 	
 	public boolean crearActividad(String nombre, int ex, double precio) {

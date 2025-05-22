@@ -37,7 +37,7 @@ public class Factura {
 	}
 	
 	public String toString() {
-		return codigo + " " + fecha + " " + precioTotal;
+		return "ID: " + codigo + " IDSocio: " + socio.getNumSocio() + " Precio: "  + precioTotal + "€";
 	}
 	
 }

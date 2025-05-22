@@ -19,4 +19,7 @@ public class Encargado extends Socio{
 		instalacion.setEncargado(this);
 	}
 
+	public List<Instalacion> getInstalaciones() {
+		return instalaciones;
+	}
 }

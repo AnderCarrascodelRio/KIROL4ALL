@@ -2,7 +2,6 @@ package logicanegocio;
 import javax.persistence.EntityManager;
 
 import dataAccess.*;
-import domain.Socio;
 import presentacion.*;
 
 public class HacerLogin {

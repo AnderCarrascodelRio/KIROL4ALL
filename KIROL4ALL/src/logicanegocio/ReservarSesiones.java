@@ -3,7 +3,6 @@ package logicanegocio;
 import javax.persistence.EntityManager;
 
 import dataAccess.ReservarSesionesDAO;
-import domain.Reserva;
 import domain.Sesion;
 import domain.Socio;
 import otros.Estado;

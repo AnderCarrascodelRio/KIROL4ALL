@@ -7,7 +7,11 @@ import domain.Sesion;
 import java.util.List;
 
 public class SesionTableModel extends AbstractTableModel {
-    private final List<Sesion> sesiones;
+    /**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+	private final List<Sesion> sesiones;
     private final String[] columnas = {"Actividad", "Fecha", "Disponible", "N.Usuarios", "Instalación"};
 
     public SesionTableModel(List<Sesion> sesiones) {

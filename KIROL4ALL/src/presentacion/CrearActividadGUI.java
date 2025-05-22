@@ -1,8 +1,6 @@
 package presentacion;
 
-import java.awt.EventQueue;
 import java.awt.Font;
-import java.util.List;
 
 import javax.persistence.EntityManager;
 import javax.swing.JButton;
@@ -10,12 +8,10 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
-import domain.Instalacion;
 import logicanegocio.CrearActividad;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
 import java.awt.Color;
-import javax.swing.JComboBox;
 
 public class CrearActividadGUI extends JFrame {
 
@@ -26,8 +22,8 @@ public class CrearActividadGUI extends JFrame {
 	private JTextField textExigencia;
 	private JTextField textPrecio;
 	
-	public CrearActividadGUI(PrincipalGUI volver, EntityManager db, int id, String rol) {
-		logicaNegocio = new CrearActividad(db, id, rol);
+	public CrearActividadGUI(PrincipalGUI volver, EntityManager db, int id) {
+		logicaNegocio = new CrearActividad(db, id);
 		setVisible(true);
 		setTitle("Caso de Uso: Crear Actividad");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -106,7 +102,7 @@ public class CrearActividadGUI extends JFrame {
 				}
 				else {
 					double precio = Double.parseDouble(precioStr);
-					if (logicaNegocio.crearActividad(nombre, exigencia, precio)) {
+					if (!logicaNegocio.crearActividad(nombre, exigencia, precio)) {
 						lblNota.setText("Ya existe una actividad con el nombre: "+ nombre +".");
 					}
 					else {
