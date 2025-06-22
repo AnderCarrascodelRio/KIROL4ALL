@@ -1,0 +1,2945 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 14:14:44 #1 server] 
+Server on port 6136 has started by 11288@AnderPC
+
+[2025-06-22 14:15:01 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 11288@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 14:15:02 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 14:15:02 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 14:15:02 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 14:15:02 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 14:15:02 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 14:15:02 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 14:15:02 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 14:15:56 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 11288@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 14:16:40 #1 server] 
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:565)
+	at java.base/sun.nio.ch.Net.bind(Net.java:554)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:390)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:277)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:221)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 14:37:02 #1 server] 
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:565)
+	at java.base/sun.nio.ch.Net.bind(Net.java:554)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:390)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:277)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:221)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 14:37:02 #1 server] 
+Server on port 6136 has started by 4540@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 14:38:37 #1 server] 
+Server on port 6136 has started by 10840@AnderPC
+
+[2025-06-22 14:38:41 #2 server] 
+Server on port 6136 has stopped by 10840@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 15:43:51 #1 server] 
+Server on port 6136 has started by 13540@AnderPC
+
+[2025-06-22 15:43:57 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 13540@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 15:43:58 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 15:43:58 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 15:43:58 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 15:43:58 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 15:43:58 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 15:43:58 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 15:43:58 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 15:43:58 #3 type.user] 
+Enhancement of type domain.Socio is old and cannot be used (-3898929695024802657:-7776903717269122657)
+
+[2025-06-22 15:43:58 #4 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 15:43:58 #5 type.user] 
+Enhancement of type domain.Factura is old and cannot be used (8452520606036075057:266725574728639077)
+
+[2025-06-22 15:43:58 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 15:43:58 #7 type.user] 
+Enhancement of type domain.Reserva is old and cannot be used (-2908401092768159687:-7174787480126876376)
+
+[2025-06-22 15:43:58 #8 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 15:43:58 #9 type.user] 
+Enhancement of type domain.Sesion is old and cannot be used (3232934291455679677:3232934217367493777)
+
+[2025-06-22 15:43:58 #10 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 15:43:58 #11 type.user] 
+Enhancement of type domain.Actividad is old and cannot be used (8320183854330010557:6589746067263433061)
+
+[2025-06-22 15:43:58 #12 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 15:43:58 #13 type.user] 
+Enhancement of type domain.Instalacion is old and cannot be used (-4761602220183360312:7486707998238381855)
+
+[2025-06-22 15:43:58 #14 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 15:43:58 #15 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 15:44:15 #16 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 13540@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 15:52:23 #1 server] 
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:565)
+	at java.base/sun.nio.ch.Net.bind(Net.java:554)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:390)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:277)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:221)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 15:52:38 #1 server] 
+Server on port 6136 has started by 1872@AnderPC
+
+[2025-06-22 15:52:43 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 1872@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 15:52:44 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 15:52:44 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 15:52:44 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 15:52:44 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 15:52:44 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 15:52:44 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 15:52:44 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 15:53:11 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 1872@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 15:53:39 #1 server] 
+Server on port 6136 has started by 9164@AnderPC
+
+[2025-06-22 15:53:40 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 9164@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 15:53:41 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 15:53:41 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 15:53:41 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 15:53:41 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 15:53:41 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 15:53:41 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 15:53:41 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 15:54:45 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 9164@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:02:20 #1 server] 
+Server on port 6136 has started by 2844@AnderPC
+
+[2025-06-22 16:02:23 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 2844@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:02:25 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 16:02:25 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 16:02:25 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 16:02:25 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 16:02:25 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 16:02:25 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 16:02:25 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 16:02:42 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 2844@AnderPC
+
+[2025-06-22 16:02:50 #4 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 2844@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:02:50 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 16:02:51 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 16:02:51 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 16:02:51 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 16:02:51 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 16:02:51 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 16:02:51 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 16:03:03 #5 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 2844@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:03:29 #1 server] 
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:565)
+	at java.base/sun.nio.ch.Net.bind(Net.java:554)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:390)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:277)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:221)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:03:58 #1 server] 
+Server on port 6136 has started by 7868@AnderPC
+
+[2025-06-22 16:04:05 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 7868@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:04:06 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 16:04:06 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 16:04:06 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 16:04:06 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 16:04:06 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 16:04:06 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 16:04:06 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 16:11:59 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 7868@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:12:31 #1 server] 
+Server on port 6136 has started by 9584@AnderPC
+
+[2025-06-22 16:12:40 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 9584@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:12:40 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 16:12:40 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 16:12:41 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 16:12:41 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 16:12:41 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 16:12:41 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 16:12:41 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 16:14:52 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 9584@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:17:04 #1 server] 
+Server on port 6136 has started by 11936@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:17:33 #1 server] 
+Server on port 6136 has started by 7308@AnderPC
+
+[2025-06-22 16:17:38 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 7308@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:17:39 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 16:17:39 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 16:17:39 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 16:17:39 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 16:17:39 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 16:17:39 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 16:17:39 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 16:18:12 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 7308@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:23:13 #1 server] 
+Server on port 6136 has started by 13768@AnderPC
+
+[2025-06-22 16:23:17 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 13768@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:23:18 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 16:23:19 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 16:23:19 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 16:23:19 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 16:23:19 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 16:23:19 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 16:23:19 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 16:24:08 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 13768@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:27:21 #1 server] 
+Server on port 6136 has started by 9636@AnderPC
+
+[2025-06-22 16:27:25 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 9636@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:27:26 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 16:27:26 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 16:27:26 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 16:27:26 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 16:27:26 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 16:27:26 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 16:27:26 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 16:27:53 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 9636@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:28:45 #1 server] 
+Server on port 6136 has started by 3376@AnderPC
+
+[2025-06-22 16:28:51 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 3376@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:28:52 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 16:28:52 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 16:28:52 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 16:28:52 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 16:28:52 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 16:28:52 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 16:28:52 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 16:31:14 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 3376@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:31:28 #1 server] 
+Server on port 6136 has started by 5552@AnderPC
+
+[2025-06-22 16:31:31 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 5552@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:31:32 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 16:31:32 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 16:31:32 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 16:31:32 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 16:31:32 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 16:31:32 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 16:31:32 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 16:32:43 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 5552@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:34:13 #1 server] 
+Server on port 6136 has started by 6016@AnderPC
+
+[2025-06-22 16:34:18 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 6016@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:34:19 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 16:34:19 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 16:34:19 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 16:34:19 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 16:34:19 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 16:34:19 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 16:34:19 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 16:38:39 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 6016@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:40:44 #1 server] 
+Server on port 6136 has started by 6916@AnderPC
+
+[2025-06-22 16:40:52 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 6916@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:40:53 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 16:40:53 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 16:40:53 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 16:40:53 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 16:40:53 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 16:40:53 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 16:40:53 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 16:41:40 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 6916@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:43:22 #1 server] 
+Server on port 6136 has started by 2032@AnderPC
+
+[2025-06-22 16:43:28 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 2032@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:43:29 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 16:43:29 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 16:43:29 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 16:43:29 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 16:43:29 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 16:43:29 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 16:43:29 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 16:44:40 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 2032@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:55:23 #1 server] 
+Server on port 6136 has started by 11996@AnderPC
+
+[2025-06-22 16:55:26 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 11996@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:55:27 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 16:55:27 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 16:55:27 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 16:55:27 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 16:55:28 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 16:55:28 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 16:55:28 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 16:56:53 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 11996@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 16:59:05 #1 server] 
+Server on port 6136 has started by 9772@AnderPC
+
+[2025-06-22 17:00:08 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 9772@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 17:00:09 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 17:00:09 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 17:00:09 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 17:00:09 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 17:00:09 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 17:00:09 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 17:00:09 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 17:04:43 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 9772@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 17:08:23 #1 server] 
+Server on port 6136 has started by 7252@AnderPC
+
+[2025-06-22 17:08:26 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 7252@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 17:08:27 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 17:08:27 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 17:08:27 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 17:08:27 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 17:08:27 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 17:08:27 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 17:08:27 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 17:08:48 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 7252@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 17:18:58 #1 server] 
+Server on port 6136 has started by 12780@AnderPC
+
+[2025-06-22 17:19:09 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 12780@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 17:19:09 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 17:19:09 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 17:19:09 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 17:19:09 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 17:19:09 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 17:19:09 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 17:19:10 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 17:22:43 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 12780@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 17:23:17 #1 server] 
+Server on port 6136 has started by 11744@AnderPC
+
+[2025-06-22 17:23:20 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 11744@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 17:23:21 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 17:23:21 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 17:23:21 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 17:23:21 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 17:23:21 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 17:23:21 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 17:23:21 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 17:24:00 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 11744@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 17:50:49 #1 server] 
+Server on port 6136 has started by 13364@AnderPC
+
+[2025-06-22 17:51:27 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 13364@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 17:51:28 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 17:51:28 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 17:51:28 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 17:51:28 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 17:51:28 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 17:51:28 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 17:51:28 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 17:55:42 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 13364@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 17:56:34 #1 server] 
+Server on port 6136 has started by 5900@AnderPC
+
+[2025-06-22 17:56:39 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 5900@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 17:56:39 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 17:56:39 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 17:56:40 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 17:56:40 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 17:56:40 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 17:56:40 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 17:56:40 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 17:58:02 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 5900@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 18:02:54 #1 server] 
+Server on port 6136 has started by 10360@AnderPC
+
+[2025-06-22 18:03:00 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 10360@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 18:03:02 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 18:03:02 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 18:03:02 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 18:03:02 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 18:03:02 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 18:03:02 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 18:03:02 #7 type] 
+Type domain.Encargado is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 18:12:46 #1 server] 
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:565)
+	at java.base/sun.nio.ch.Net.bind(Net.java:554)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:390)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:277)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:221)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+[2025-06-22 18:12:51 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 10360@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 18:13:02 #1 server] 
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:565)
+	at java.base/sun.nio.ch.Net.bind(Net.java:554)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:390)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:277)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:221)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+[2025-06-22 18:13:05 #4 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 10360@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 18:13:05 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 18:13:05 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 18:13:05 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 18:13:05 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 18:13:05 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 18:13:05 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 18:13:05 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 18:14:01 #5 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 10360@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 18:16:47 #1 server] 
+Server on port 6136 has started by 10496@AnderPC
+
+[2025-06-22 18:17:28 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 10496@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 18:17:29 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 18:17:29 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 18:17:29 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 18:17:29 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 18:17:29 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 18:17:29 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 18:17:29 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 18:18:02 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 10496@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 18:18:12 #1 server] 
+Server on port 6136 has started by 12696@AnderPC
+
+[2025-06-22 18:18:22 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 12696@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 18:18:23 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 18:18:23 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 18:18:23 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 18:18:23 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 18:18:23 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 18:18:23 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 18:18:23 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 18:21:03 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 12696@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 18:21:14 #1 server] 
+Server on port 6136 has started by 9236@AnderPC
+
+[2025-06-22 18:21:26 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 9236@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 18:21:27 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 18:21:27 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 18:21:27 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 18:21:27 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 18:21:27 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 18:21:27 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 18:21:27 #7 type] 
+Type domain.Encargado is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 18:22:52 #1 server] 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:193)
+	at com.objectdb.Server.run(Server.java:102)
+	at com.objectdb.ServerRunner.main(ServerRunner.java:31)
+
+[2025-06-22 18:22:59 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 9236@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 18:23:09 #1 server] 
+Server on port 6136 has started by 9680@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 18:23:44 #1 server] 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:193)
+	at com.objectdb.Server.run(Server.java:102)
+	at com.objectdb.ServerRunner.main(ServerRunner.java:31)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 18:26:11 #1 server] 
+Server on port 6136 has started by 11708@AnderPC
+
+[2025-06-22 18:26:17 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 11708@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 18:26:18 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 18:26:18 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 18:26:18 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 18:26:18 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 18:26:18 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 18:26:18 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 18:26:18 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 18:26:18 #3 type.user] 
+Enhancement of type domain.Sesion is old and cannot be used (-7433013545255232901:3232934291455679677)
+
+[2025-06-22 18:26:18 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 18:28:26 #5 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 11708@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 18:28:36 #1 server] 
+Server on port 6136 has started by 8272@AnderPC
+
+[2025-06-22 18:28:39 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 8272@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 18:28:40 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 18:28:40 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 18:28:40 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 18:28:40 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 18:28:40 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 18:28:40 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 18:28:40 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 18:30:32 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 8272@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 18:31:15 #1 server] 
+Server on port 6136 has started by 9764@AnderPC
+
+[2025-06-22 18:31:19 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is opened by 9764@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 18:31:34 #1 type.registry] 
+New type domain.Socio
+
+[2025-06-22 18:31:34 #2 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 18:31:34 #3 type.registry] 
+New type domain.Factura
+
+[2025-06-22 18:31:34 #4 type.registry] 
+New type domain.Reserva
+
+[2025-06-22 18:31:34 #5 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 18:31:34 #6 type.registry] 
+New type configuration.EstadoFactura
+
+[2025-06-22 18:31:34 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 18:31:34 #8 type.registry] 
+New type domain.Sesion
+
+[2025-06-22 18:31:34 #9 type.registry] 
+New type configuration.Estado
+
+[2025-06-22 18:31:34 #10 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 18:31:34 #11 type.registry] 
+New type domain.Actividad
+
+[2025-06-22 18:31:34 #12 type.registry] 
+New type domain.Instalacion
+
+[2025-06-22 18:31:34 #13 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 18:31:34 #14 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 18:31:34 #15 type.registry] 
+New type domain.Encargado
+
+[2025-06-22 18:31:34 #16 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 18:32:07 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.odb' is closed by 9764@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 18:33:45 #1 server] 
+Server on port 6136 has started by 5816@AnderPC
+
+[2025-06-22 18:33:53 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is opened by 5816@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 18:34:04 #1 type.registry] 
+New type domain.Socio
+
+[2025-06-22 18:34:04 #2 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 18:34:04 #3 type.registry] 
+New type domain.Factura
+
+[2025-06-22 18:34:04 #4 type.registry] 
+New type domain.Reserva
+
+[2025-06-22 18:34:04 #5 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 18:34:04 #6 type.registry] 
+New type configuration.EstadoFactura
+
+[2025-06-22 18:34:04 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 18:34:04 #8 type.registry] 
+New type domain.Sesion
+
+[2025-06-22 18:34:04 #9 type.registry] 
+New type configuration.Estado
+
+[2025-06-22 18:34:04 #10 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 18:34:04 #11 type.registry] 
+New type domain.Actividad
+
+[2025-06-22 18:34:04 #12 type.registry] 
+New type domain.Instalacion
+
+[2025-06-22 18:34:04 #13 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 18:34:04 #14 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 18:34:04 #15 type.registry] 
+New type domain.Encargado
+
+[2025-06-22 18:34:04 #16 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 18:34:08 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is closed by 5816@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 18:58:07 #1 server] 
+Server on port 6136 has started by 9524@AnderPC
+
+[2025-06-22 18:58:47 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is opened by 9524@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 18:58:48 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 18:58:48 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 18:58:48 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 18:58:48 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 18:58:48 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 18:58:48 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 18:58:48 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 18:58:48 #8 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-06-22 18:58:48 #9 type.registry] 
+New type java.util.ArrayList<domain.Reserva>
+
+[2025-06-22 18:58:48 #10 type.registry] 
+New type java.util.ArrayList<domain.Factura>
+
+[2025-06-22 18:58:48 #11 type.registry] 
+New type java.util.ArrayList<domain.Sesion>
+
+[2025-06-22 18:58:48 #12 type.registry] 
+New type java.util.ArrayList<domain.Instalacion>
+
+[2025-06-22 18:59:03 #13 type.registry] 
+New type com.objectdb.o.LMT
+
+[2025-06-22 18:59:03 #14 type.registry] 
+New type com.objectdb.o.VAL
+
+[2025-06-22 18:59:03 #15 type.registry] 
+New type com.objectdb.o.RFV
+
+[2025-06-22 19:01:30 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is closed by 9524@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 19:01:42 #1 server] 
+Server on port 6136 has started by 5360@AnderPC
+
+[2025-06-22 19:01:51 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is opened by 5360@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 19:01:52 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 19:01:52 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 19:01:52 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 19:01:52 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 19:01:52 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 19:01:52 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 19:01:52 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 19:02:03 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is closed by 5360@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 19:04:24 #1 server] 
+Server on port 6136 has started by 208@AnderPC
+
+[2025-06-22 19:04:28 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is opened by 208@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 19:04:29 #1 type.registry] 
+New type domain.Socio
+
+[2025-06-22 19:04:29 #2 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 19:04:29 #3 type.registry] 
+New type domain.Factura
+
+[2025-06-22 19:04:29 #4 type.registry] 
+New type domain.Reserva
+
+[2025-06-22 19:04:29 #5 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 19:04:29 #6 type.registry] 
+New type configuration.EstadoFactura
+
+[2025-06-22 19:04:29 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 19:04:29 #8 type.registry] 
+New type domain.Sesion
+
+[2025-06-22 19:04:29 #9 type.registry] 
+New type configuration.Estado
+
+[2025-06-22 19:04:29 #10 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 19:04:29 #11 type.registry] 
+New type domain.Actividad
+
+[2025-06-22 19:04:29 #12 type.registry] 
+New type domain.Instalacion
+
+[2025-06-22 19:04:29 #13 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 19:04:29 #14 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 19:04:29 #15 type.registry] 
+New type domain.Encargado
+
+[2025-06-22 19:04:29 #16 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 19:04:29 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-06-22 19:04:29 #18 type.registry] 
+New type java.util.ArrayList<domain.Reserva>
+
+[2025-06-22 19:04:29 #19 type.registry] 
+New type java.util.ArrayList<domain.Factura>
+
+[2025-06-22 19:04:29 #20 type.registry] 
+New type java.util.ArrayList<domain.Sesion>
+
+[2025-06-22 19:04:29 #21 type.registry] 
+New type java.util.ArrayList<domain.Instalacion>
+
+[2025-06-22 19:04:55 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is closed by 208@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 20:02:09 #1 server] 
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:565)
+	at java.base/sun.nio.ch.Net.bind(Net.java:554)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:390)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:277)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:221)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 20:02:27 #1 server] 
+Server on port 6136 has started by 13356@AnderPC
+
+[2025-06-22 20:02:35 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is opened by 13356@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 20:02:35 #1 type.registry] 
+New type domain.Socio
+
+[2025-06-22 20:02:35 #2 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 20:02:35 #3 type.registry] 
+New type domain.Factura
+
+[2025-06-22 20:02:35 #4 type.registry] 
+New type domain.Reserva
+
+[2025-06-22 20:02:35 #5 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 20:02:35 #6 type.registry] 
+New type configuration.EstadoFactura
+
+[2025-06-22 20:02:35 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 20:02:35 #8 type.registry] 
+New type domain.Sesion
+
+[2025-06-22 20:02:35 #9 type.registry] 
+New type configuration.Estado
+
+[2025-06-22 20:02:35 #10 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 20:02:35 #11 type.registry] 
+New type domain.Actividad
+
+[2025-06-22 20:02:35 #12 type.registry] 
+New type domain.Instalacion
+
+[2025-06-22 20:02:35 #13 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 20:02:35 #14 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 20:02:35 #15 type.registry] 
+New type domain.Encargado
+
+[2025-06-22 20:02:35 #16 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 20:02:36 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-06-22 20:02:36 #18 type.registry] 
+New type java.util.ArrayList<domain.Reserva>
+
+[2025-06-22 20:02:36 #19 type.registry] 
+New type java.util.ArrayList<domain.Factura>
+
+[2025-06-22 20:02:36 #20 type.registry] 
+New type java.util.ArrayList<domain.Sesion>
+
+[2025-06-22 20:02:36 #21 type.registry] 
+New type java.util.ArrayList<domain.Instalacion>
+
+[2025-06-22 20:02:49 #22 type.registry] 
+New type com.objectdb.o.LMT
+
+[2025-06-22 20:02:49 #23 type.registry] 
+New type com.objectdb.o.VAL
+
+[2025-06-22 20:02:49 #24 type.registry] 
+New type com.objectdb.o.RFV
+
+[2025-06-22 20:03:05 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is closed by 13356@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 20:05:02 #1 server] 
+Server on port 6136 has started by 4504@AnderPC
+
+[2025-06-22 20:05:09 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is opened by 4504@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 20:05:10 #1 type.registry] 
+New type domain.Socio
+
+[2025-06-22 20:05:10 #2 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 20:05:10 #3 type.registry] 
+New type domain.Factura
+
+[2025-06-22 20:05:10 #4 type.registry] 
+New type domain.Reserva
+
+[2025-06-22 20:05:10 #5 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 20:05:10 #6 type.registry] 
+New type configuration.EstadoFactura
+
+[2025-06-22 20:05:10 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 20:05:10 #8 type.registry] 
+New type domain.Sesion
+
+[2025-06-22 20:05:10 #9 type.registry] 
+New type configuration.Estado
+
+[2025-06-22 20:05:10 #10 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 20:05:10 #11 type.registry] 
+New type domain.Actividad
+
+[2025-06-22 20:05:10 #12 type.registry] 
+New type domain.Instalacion
+
+[2025-06-22 20:05:10 #13 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 20:05:10 #14 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 20:05:10 #15 type.registry] 
+New type domain.Encargado
+
+[2025-06-22 20:05:10 #16 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 20:05:10 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-06-22 20:05:11 #18 type.registry] 
+New type java.util.ArrayList<domain.Reserva>
+
+[2025-06-22 20:05:11 #19 type.registry] 
+New type java.util.ArrayList<domain.Factura>
+
+[2025-06-22 20:05:11 #20 type.registry] 
+New type java.util.ArrayList<domain.Sesion>
+
+[2025-06-22 20:05:11 #21 type.registry] 
+New type java.util.ArrayList<domain.Instalacion>
+
+[2025-06-22 20:05:22 #22 type.registry] 
+New type com.objectdb.o.LMT
+
+[2025-06-22 20:05:22 #23 type.registry] 
+New type com.objectdb.o.VAL
+
+[2025-06-22 20:05:22 #24 type.registry] 
+New type com.objectdb.o.RFV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 20:07:40 #1 server] 
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:565)
+	at java.base/sun.nio.ch.Net.bind(Net.java:554)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:390)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:277)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:221)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+[2025-06-22 20:07:45 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is closed by 4504@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 20:07:53 #1 server] 
+Server on port 6136 has started by 12724@AnderPC
+
+[2025-06-22 20:07:58 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is opened by 12724@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 20:07:59 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 20:07:59 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 20:07:59 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 20:07:59 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 20:07:59 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 20:07:59 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 20:07:59 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 20:08:06 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is closed by 12724@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 20:08:25 #1 server] 
+Server on port 6136 has started by 6344@AnderPC
+
+[2025-06-22 20:08:32 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is opened by 6344@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 20:08:33 #1 type.registry] 
+New type domain.Socio
+
+[2025-06-22 20:08:33 #2 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 20:08:33 #3 type.registry] 
+New type domain.Factura
+
+[2025-06-22 20:08:33 #4 type.registry] 
+New type domain.Reserva
+
+[2025-06-22 20:08:33 #5 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 20:08:33 #6 type.registry] 
+New type configuration.EstadoFactura
+
+[2025-06-22 20:08:33 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 20:08:33 #8 type.registry] 
+New type domain.Sesion
+
+[2025-06-22 20:08:33 #9 type.registry] 
+New type configuration.Estado
+
+[2025-06-22 20:08:33 #10 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 20:08:33 #11 type.registry] 
+New type domain.Actividad
+
+[2025-06-22 20:08:33 #12 type.registry] 
+New type domain.Instalacion
+
+[2025-06-22 20:08:33 #13 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 20:08:33 #14 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 20:08:33 #15 type.registry] 
+New type domain.Encargado
+
+[2025-06-22 20:08:33 #16 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 20:08:33 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-06-22 20:08:33 #18 type.registry] 
+New type java.util.ArrayList<domain.Reserva>
+
+[2025-06-22 20:08:33 #19 type.registry] 
+New type java.util.ArrayList<domain.Factura>
+
+[2025-06-22 20:08:33 #20 type.registry] 
+New type java.util.ArrayList<domain.Sesion>
+
+[2025-06-22 20:08:33 #21 type.registry] 
+New type java.util.ArrayList<domain.Instalacion>
+
+[2025-06-22 20:08:44 #22 type.registry] 
+New type com.objectdb.o.LMT
+
+[2025-06-22 20:08:44 #23 type.registry] 
+New type com.objectdb.o.VAL
+
+[2025-06-22 20:08:44 #24 type.registry] 
+New type com.objectdb.o.RFV
+
+[2025-06-22 20:09:07 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is closed by 6344@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 20:44:46 #1 server] 
+Server on port 6136 has started by 6240@AnderPC
+
+[2025-06-22 20:44:55 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is opened by 6240@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 20:44:56 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 20:44:56 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 20:44:56 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 20:44:56 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 20:44:56 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 20:44:56 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 20:44:56 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 20:45:00 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is closed by 6240@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 20:45:22 #1 server] 
+Server on port 6136 has started by 12440@AnderPC
+
+[2025-06-22 20:45:28 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is opened by 12440@AnderPC
+
+[2025-06-22 20:45:48 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is closed by 12440@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 20:46:00 #1 server] 
+Server on port 6136 has started by 5640@AnderPC
+
+[2025-06-22 20:46:05 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is opened by 5640@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 20:46:05 #1 type.registry] 
+New type domain.Socio
+
+[2025-06-22 20:46:05 #2 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 20:46:05 #3 type.registry] 
+New type domain.Factura
+
+[2025-06-22 20:46:05 #4 type.registry] 
+New type domain.Reserva
+
+[2025-06-22 20:46:05 #5 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 20:46:05 #6 type.registry] 
+New type configuration.EstadoFactura
+
+[2025-06-22 20:46:05 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 20:46:05 #8 type.registry] 
+New type domain.Sesion
+
+[2025-06-22 20:46:05 #9 type.registry] 
+New type configuration.Estado
+
+[2025-06-22 20:46:05 #10 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 20:46:05 #11 type.registry] 
+New type domain.Actividad
+
+[2025-06-22 20:46:05 #12 type.registry] 
+New type domain.Instalacion
+
+[2025-06-22 20:46:05 #13 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 20:46:05 #14 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 20:46:06 #15 type.registry] 
+New type domain.Encargado
+
+[2025-06-22 20:46:06 #16 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 20:46:06 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-06-22 20:46:06 #18 type.registry] 
+New type java.util.ArrayList<domain.Reserva>
+
+[2025-06-22 20:46:06 #19 type.registry] 
+New type java.util.ArrayList<domain.Factura>
+
+[2025-06-22 20:46:06 #20 type.registry] 
+New type java.util.ArrayList<domain.Sesion>
+
+[2025-06-22 20:46:06 #21 type.registry] 
+New type java.util.ArrayList<domain.Instalacion>
+
+[2025-06-22 20:46:17 #22 type.registry] 
+New type com.objectdb.o.LMT
+
+[2025-06-22 20:46:17 #23 type.registry] 
+New type com.objectdb.o.VAL
+
+[2025-06-22 20:46:17 #24 type.registry] 
+New type com.objectdb.o.RFV
+
+[2025-06-22 20:56:59 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is closed by 5640@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 20:57:09 #1 server] 
+Server on port 6136 has started by 1064@AnderPC
+
+[2025-06-22 20:57:21 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is opened by 1064@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 20:57:22 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 20:57:22 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 20:57:22 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 20:57:22 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 20:57:22 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 20:57:22 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 20:57:22 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 20:57:34 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is closed by 1064@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 20:58:06 #1 server] 
+Server on port 6136 has started by 10552@AnderPC
+
+[2025-06-22 20:58:15 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is opened by 10552@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 20:58:15 #1 type.registry] 
+New type domain.Socio
+
+[2025-06-22 20:58:15 #2 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 20:58:15 #3 type.registry] 
+New type domain.Factura
+
+[2025-06-22 20:58:15 #4 type.registry] 
+New type domain.Reserva
+
+[2025-06-22 20:58:15 #5 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 20:58:15 #6 type.registry] 
+New type configuration.EstadoFactura
+
+[2025-06-22 20:58:15 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 20:58:15 #8 type.registry] 
+New type domain.Sesion
+
+[2025-06-22 20:58:15 #9 type.registry] 
+New type configuration.Estado
+
+[2025-06-22 20:58:15 #10 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 20:58:15 #11 type.registry] 
+New type domain.Actividad
+
+[2025-06-22 20:58:15 #12 type.registry] 
+New type domain.Instalacion
+
+[2025-06-22 20:58:15 #13 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 20:58:15 #14 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 20:58:15 #15 type.registry] 
+New type domain.Encargado
+
+[2025-06-22 20:58:15 #16 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 20:58:16 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-06-22 20:58:16 #18 type.registry] 
+New type java.util.ArrayList<domain.Reserva>
+
+[2025-06-22 20:58:16 #19 type.registry] 
+New type java.util.ArrayList<domain.Factura>
+
+[2025-06-22 20:58:16 #20 type.registry] 
+New type java.util.ArrayList<domain.Sesion>
+
+[2025-06-22 20:58:16 #21 type.registry] 
+New type java.util.ArrayList<domain.Instalacion>
+
+[2025-06-22 20:58:53 #22 type.registry] 
+New type com.objectdb.o.LMT
+
+[2025-06-22 20:58:53 #23 type.registry] 
+New type com.objectdb.o.VAL
+
+[2025-06-22 20:58:53 #24 type.registry] 
+New type com.objectdb.o.RFV
+
+[2025-06-22 21:00:16 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is closed by 10552@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 21:13:30 #1 server] 
+Server on port 6136 has started by 7528@AnderPC
+
+[2025-06-22 21:13:35 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is opened by 7528@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 21:13:35 #1 type.registry] 
+New type domain.Socio
+
+[2025-06-22 21:13:35 #2 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 21:13:35 #3 type.registry] 
+New type domain.Factura
+
+[2025-06-22 21:13:35 #4 type.registry] 
+New type domain.Reserva
+
+[2025-06-22 21:13:35 #5 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 21:13:35 #6 type.registry] 
+New type configuration.EstadoFactura
+
+[2025-06-22 21:13:35 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 21:13:35 #8 type.registry] 
+New type domain.Sesion
+
+[2025-06-22 21:13:35 #9 type.registry] 
+New type configuration.Estado
+
+[2025-06-22 21:13:35 #10 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 21:13:35 #11 type.registry] 
+New type domain.Actividad
+
+[2025-06-22 21:13:35 #12 type.registry] 
+New type domain.Instalacion
+
+[2025-06-22 21:13:35 #13 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 21:13:35 #14 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 21:13:36 #15 type.registry] 
+New type domain.Encargado
+
+[2025-06-22 21:13:36 #16 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 21:13:36 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-06-22 21:13:36 #18 type.registry] 
+New type java.util.ArrayList<domain.Reserva>
+
+[2025-06-22 21:13:36 #19 type.registry] 
+New type java.util.ArrayList<domain.Factura>
+
+[2025-06-22 21:13:36 #20 type.registry] 
+New type java.util.ArrayList<domain.Sesion>
+
+[2025-06-22 21:13:36 #21 type.registry] 
+New type java.util.ArrayList<domain.Instalacion>
+
+[2025-06-22 21:13:49 #22 type.registry] 
+New type com.objectdb.o.LMT
+
+[2025-06-22 21:13:49 #23 type.registry] 
+New type com.objectdb.o.VAL
+
+[2025-06-22 21:13:49 #24 type.registry] 
+New type com.objectdb.o.RFV
+
+[2025-06-22 21:14:39 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is closed by 7528@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 21:22:29 #1 server] 
+Server on port 6136 has started by 10912@AnderPC
+
+[2025-06-22 21:22:33 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is opened by 10912@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 21:22:34 #1 type.registry] 
+New type domain.Socio
+
+[2025-06-22 21:22:34 #2 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 21:22:34 #3 type.registry] 
+New type domain.Factura
+
+[2025-06-22 21:22:34 #4 type.registry] 
+New type domain.Reserva
+
+[2025-06-22 21:22:34 #5 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 21:22:34 #6 type.registry] 
+New type configuration.EstadoFactura
+
+[2025-06-22 21:22:34 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 21:22:34 #8 type.registry] 
+New type domain.Sesion
+
+[2025-06-22 21:22:34 #9 type.registry] 
+New type configuration.Estado
+
+[2025-06-22 21:22:34 #10 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 21:22:34 #11 type.registry] 
+New type domain.Actividad
+
+[2025-06-22 21:22:34 #12 type.registry] 
+New type domain.Instalacion
+
+[2025-06-22 21:22:34 #13 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 21:22:34 #14 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 21:22:34 #15 type.registry] 
+New type domain.Encargado
+
+[2025-06-22 21:22:34 #16 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 21:22:42 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is closed by 10912@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 21:29:30 #1 server] 
+Server on port 6136 has started by 1944@AnderPC
+
+[2025-06-22 21:29:32 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is opened by 1944@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 21:29:33 #1 type.registry] 
+New type domain.Socio
+
+[2025-06-22 21:29:33 #2 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 21:29:33 #3 type.registry] 
+New type domain.Factura
+
+[2025-06-22 21:29:33 #4 type.registry] 
+New type domain.Reserva
+
+[2025-06-22 21:29:33 #5 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 21:29:33 #6 type.registry] 
+New type configuration.EstadoFactura
+
+[2025-06-22 21:29:33 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 21:29:33 #8 type.registry] 
+New type domain.Sesion
+
+[2025-06-22 21:29:33 #9 type.registry] 
+New type configuration.Estado
+
+[2025-06-22 21:29:33 #10 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 21:29:33 #11 type.registry] 
+New type domain.Actividad
+
+[2025-06-22 21:29:33 #12 type.registry] 
+New type domain.Instalacion
+
+[2025-06-22 21:29:33 #13 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 21:29:33 #14 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 21:29:33 #15 type.registry] 
+New type domain.Encargado
+
+[2025-06-22 21:29:33 #16 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 21:31:51 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is closed by 1944@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 21:32:08 #1 server] 
+Server on port 6136 has started by 3836@AnderPC
+
+[2025-06-22 21:32:11 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is opened by 3836@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 21:32:12 #1 type.registry] 
+New type domain.Socio
+
+[2025-06-22 21:32:12 #2 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 21:32:12 #3 type.registry] 
+New type domain.Factura
+
+[2025-06-22 21:32:12 #4 type.registry] 
+New type domain.Reserva
+
+[2025-06-22 21:32:12 #5 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 21:32:12 #6 type.registry] 
+New type configuration.EstadoFactura
+
+[2025-06-22 21:32:12 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 21:32:12 #8 type.registry] 
+New type domain.Sesion
+
+[2025-06-22 21:32:12 #9 type.registry] 
+New type configuration.Estado
+
+[2025-06-22 21:32:12 #10 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 21:32:12 #11 type.registry] 
+New type domain.Actividad
+
+[2025-06-22 21:32:12 #12 type.registry] 
+New type domain.Instalacion
+
+[2025-06-22 21:32:12 #13 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 21:32:12 #14 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 21:32:12 #15 type.registry] 
+New type domain.Encargado
+
+[2025-06-22 21:32:12 #16 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 21:32:12 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-06-22 21:32:12 #18 type.registry] 
+New type java.util.ArrayList<domain.Reserva>
+
+[2025-06-22 21:32:12 #19 type.registry] 
+New type java.util.ArrayList<domain.Factura>
+
+[2025-06-22 21:32:13 #20 type.registry] 
+New type java.util.ArrayList<domain.Sesion>
+
+[2025-06-22 21:32:13 #21 type.registry] 
+New type java.util.ArrayList<domain.Instalacion>
+
+[2025-06-22 21:38:35 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is closed by 3836@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 21:38:55 #1 server] 
+Server on port 6136 has started by 9628@AnderPC
+
+[2025-06-22 21:38:59 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is opened by 9628@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 21:38:59 #1 type.registry] 
+New type domain.Socio
+
+[2025-06-22 21:38:59 #2 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 21:38:59 #3 type.registry] 
+New type domain.Factura
+
+[2025-06-22 21:38:59 #4 type.registry] 
+New type domain.Reserva
+
+[2025-06-22 21:38:59 #5 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 21:38:59 #6 type.registry] 
+New type configuration.EstadoFactura
+
+[2025-06-22 21:38:59 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 21:38:59 #8 type.registry] 
+New type domain.Sesion
+
+[2025-06-22 21:38:59 #9 type.registry] 
+New type configuration.Estado
+
+[2025-06-22 21:38:59 #10 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 21:38:59 #11 type.registry] 
+New type domain.Actividad
+
+[2025-06-22 21:38:59 #12 type.registry] 
+New type domain.Instalacion
+
+[2025-06-22 21:38:59 #13 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 21:38:59 #14 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 21:38:59 #15 type.registry] 
+New type domain.Encargado
+
+[2025-06-22 21:38:59 #16 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 21:39:00 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-06-22 21:39:00 #18 type.registry] 
+New type java.util.ArrayList<domain.Reserva>
+
+[2025-06-22 21:39:00 #19 type.registry] 
+New type java.util.ArrayList<domain.Factura>
+
+[2025-06-22 21:39:00 #20 type.registry] 
+New type java.util.ArrayList<domain.Sesion>
+
+[2025-06-22 21:39:00 #21 type.registry] 
+New type java.util.ArrayList<domain.Instalacion>
+
+[2025-06-22 21:39:36 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is closed by 9628@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 21:39:52 #1 server] 
+Server on port 6136 has started by 14272@AnderPC
+
+[2025-06-22 21:40:12 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is opened by 14272@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 21:40:13 #1 type.registry] 
+New type domain.Socio
+
+[2025-06-22 21:40:13 #2 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 21:40:13 #3 type.registry] 
+New type domain.Factura
+
+[2025-06-22 21:40:13 #4 type.registry] 
+New type domain.Reserva
+
+[2025-06-22 21:40:13 #5 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 21:40:13 #6 type.registry] 
+New type configuration.EstadoFactura
+
+[2025-06-22 21:40:13 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 21:40:13 #8 type.registry] 
+New type domain.Sesion
+
+[2025-06-22 21:40:13 #9 type.registry] 
+New type configuration.Estado
+
+[2025-06-22 21:40:13 #10 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 21:40:13 #11 type.registry] 
+New type domain.Actividad
+
+[2025-06-22 21:40:13 #12 type.registry] 
+New type domain.Instalacion
+
+[2025-06-22 21:40:13 #13 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 21:40:13 #14 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 21:40:13 #15 type.registry] 
+New type domain.Encargado
+
+[2025-06-22 21:40:13 #16 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 21:40:14 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-06-22 21:40:14 #18 type.registry] 
+New type java.util.ArrayList<domain.Reserva>
+
+[2025-06-22 21:40:14 #19 type.registry] 
+New type java.util.ArrayList<domain.Factura>
+
+[2025-06-22 21:40:14 #20 type.registry] 
+New type java.util.ArrayList<domain.Sesion>
+
+[2025-06-22 21:40:14 #21 type.registry] 
+New type java.util.ArrayList<domain.Instalacion>
+
+[2025-06-22 21:41:44 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is closed by 14272@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 21:49:03 #1 server] 
+Server on port 6136 has started by 7232@AnderPC
+
+[2025-06-22 21:49:06 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is opened by 7232@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 21:49:07 #1 type.registry] 
+New type domain.Socio
+
+[2025-06-22 21:49:07 #2 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 21:49:07 #3 type.registry] 
+New type domain.Factura
+
+[2025-06-22 21:49:07 #4 type.registry] 
+New type domain.Reserva
+
+[2025-06-22 21:49:07 #5 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 21:49:07 #6 type.registry] 
+New type configuration.EstadoFactura
+
+[2025-06-22 21:49:07 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 21:49:07 #8 type.registry] 
+New type domain.Sesion
+
+[2025-06-22 21:49:07 #9 type.registry] 
+New type configuration.Estado
+
+[2025-06-22 21:49:07 #10 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 21:49:07 #11 type.registry] 
+New type domain.Actividad
+
+[2025-06-22 21:49:07 #12 type.registry] 
+New type domain.Instalacion
+
+[2025-06-22 21:49:07 #13 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 21:49:07 #14 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 21:49:07 #15 type.registry] 
+New type domain.Encargado
+
+[2025-06-22 21:49:07 #16 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 21:49:08 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-06-22 21:49:08 #18 type.registry] 
+New type java.util.ArrayList<domain.Reserva>
+
+[2025-06-22 21:49:08 #19 type.registry] 
+New type java.util.ArrayList<domain.Factura>
+
+[2025-06-22 21:49:08 #20 type.registry] 
+New type java.util.ArrayList<domain.Sesion>
+
+[2025-06-22 21:49:08 #21 type.registry] 
+New type java.util.ArrayList<domain.Instalacion>
+
+[2025-06-22 21:49:17 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is closed by 7232@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 21:50:01 #1 server] 
+Server on port 6136 has started by 2824@AnderPC
+
+[2025-06-22 21:50:05 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is opened by 2824@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 21:50:05 #1 type.registry] 
+New type domain.Socio
+
+[2025-06-22 21:50:05 #2 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 21:50:05 #3 type.registry] 
+New type domain.Factura
+
+[2025-06-22 21:50:05 #4 type.registry] 
+New type domain.Reserva
+
+[2025-06-22 21:50:05 #5 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 21:50:05 #6 type.registry] 
+New type configuration.EstadoFactura
+
+[2025-06-22 21:50:05 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 21:50:06 #8 type.registry] 
+New type domain.Sesion
+
+[2025-06-22 21:50:06 #9 type.registry] 
+New type configuration.Estado
+
+[2025-06-22 21:50:06 #10 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 21:50:06 #11 type.registry] 
+New type domain.Actividad
+
+[2025-06-22 21:50:06 #12 type.registry] 
+New type domain.Instalacion
+
+[2025-06-22 21:50:06 #13 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 21:50:06 #14 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 21:50:06 #15 type.registry] 
+New type domain.Encargado
+
+[2025-06-22 21:50:06 #16 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 21:50:06 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-06-22 21:50:06 #18 type.registry] 
+New type java.util.ArrayList<domain.Reserva>
+
+[2025-06-22 21:50:06 #19 type.registry] 
+New type java.util.ArrayList<domain.Factura>
+
+[2025-06-22 21:50:06 #20 type.registry] 
+New type java.util.ArrayList<domain.Sesion>
+
+[2025-06-22 21:50:06 #21 type.registry] 
+New type java.util.ArrayList<domain.Instalacion>
+
+[2025-06-22 21:50:21 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is closed by 2824@AnderPC
+
+[2025-06-22 21:50:32 #4 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is opened by 2824@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 21:50:32 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 21:50:32 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 21:50:32 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 21:50:32 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 21:50:32 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 21:50:32 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 21:50:32 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 21:50:35 #5 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is closed by 2824@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 21:53:58 #1 server] 
+Server on port 6136 has started by 4792@AnderPC
+
+[2025-06-22 21:54:00 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is opened by 4792@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 21:54:00 #1 type.registry] 
+New type domain.Socio
+
+[2025-06-22 21:54:00 #2 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 21:54:00 #3 type.registry] 
+New type domain.Factura
+
+[2025-06-22 21:54:00 #4 type.registry] 
+New type domain.Reserva
+
+[2025-06-22 21:54:00 #5 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 21:54:00 #6 type.registry] 
+New type configuration.EstadoFactura
+
+[2025-06-22 21:54:00 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 21:54:00 #8 type.registry] 
+New type domain.Sesion
+
+[2025-06-22 21:54:00 #9 type.registry] 
+New type configuration.Estado
+
+[2025-06-22 21:54:00 #10 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 21:54:00 #11 type.registry] 
+New type domain.Actividad
+
+[2025-06-22 21:54:00 #12 type.registry] 
+New type domain.Instalacion
+
+[2025-06-22 21:54:00 #13 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 21:54:01 #14 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 21:54:01 #15 type.registry] 
+New type domain.Encargado
+
+[2025-06-22 21:54:01 #16 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 21:54:01 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-06-22 21:54:01 #18 type.registry] 
+New type java.util.ArrayList<domain.Reserva>
+
+[2025-06-22 21:54:01 #19 type.registry] 
+New type java.util.ArrayList<domain.Factura>
+
+[2025-06-22 21:54:01 #20 type.registry] 
+New type java.util.ArrayList<domain.Sesion>
+
+[2025-06-22 21:54:01 #21 type.registry] 
+New type java.util.ArrayList<domain.Instalacion>
+
+[2025-06-22 21:54:14 #22 type.registry] 
+New type com.objectdb.o.LMT
+
+[2025-06-22 21:54:14 #23 type.registry] 
+New type com.objectdb.o.VAL
+
+[2025-06-22 21:54:14 #24 type.registry] 
+New type com.objectdb.o.RFV
+
+[2025-06-22 22:28:38 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is closed by 4792@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 22:46:53 #1 server] 
+Server on port 6136 has started by 6928@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 23:24:28 #1 server] 
+Server on port 6136 has started by 4160@AnderPC
+
+[2025-06-22 23:24:38 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is opened by 4160@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 23:24:38 #1 type.registry] 
+New type domain.Socio
+
+[2025-06-22 23:24:38 #2 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 23:24:38 #3 type.registry] 
+New type domain.Factura
+
+[2025-06-22 23:24:38 #4 type.registry] 
+New type domain.Reserva
+
+[2025-06-22 23:24:38 #5 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 23:24:38 #6 type.registry] 
+New type configuration.EstadoFactura
+
+[2025-06-22 23:24:38 #7 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 23:24:38 #8 type.registry] 
+New type domain.Sesion
+
+[2025-06-22 23:24:38 #9 type.registry] 
+New type configuration.Estado
+
+[2025-06-22 23:24:38 #10 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 23:24:38 #11 type.registry] 
+New type domain.Actividad
+
+[2025-06-22 23:24:38 #12 type.registry] 
+New type domain.Instalacion
+
+[2025-06-22 23:24:38 #13 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 23:24:38 #14 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 23:24:38 #15 type.registry] 
+New type domain.Encargado
+
+[2025-06-22 23:24:38 #16 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 23:24:39 #17 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-06-22 23:24:39 #18 type.registry] 
+New type java.util.ArrayList<domain.Reserva>
+
+[2025-06-22 23:24:39 #19 type.registry] 
+New type java.util.ArrayList<domain.Factura>
+
+[2025-06-22 23:24:39 #20 type.registry] 
+New type java.util.ArrayList<domain.Sesion>
+
+[2025-06-22 23:24:39 #21 type.registry] 
+New type java.util.ArrayList<domain.Instalacion>
+
+[2025-06-22 23:30:41 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is closed by 4160@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 23:31:03 #1 server] 
+Server on port 6136 has started by 8892@AnderPC
+
+[2025-06-22 23:31:09 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is opened by 8892@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 23:31:10 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 23:31:10 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 23:31:10 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 23:31:10 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 23:31:10 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 23:31:10 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 23:31:10 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 23:31:20 #8 type.registry] 
+New type com.objectdb.o.LMT
+
+[2025-06-22 23:31:20 #9 type.registry] 
+New type com.objectdb.o.VAL
+
+[2025-06-22 23:31:20 #10 type.registry] 
+New type com.objectdb.o.RFV
+
+[2025-06-22 23:32:53 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is closed by 8892@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 23:33:27 #1 server] 
+Server on port 6136 has started by 7328@AnderPC
+
+[2025-06-22 23:33:40 #2 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is opened by 7328@AnderPC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-22 23:33:40 #1 type] 
+Type domain.Socio is not enhanced.
+
+[2025-06-22 23:33:40 #2 type] 
+Type domain.Factura is not enhanced.
+
+[2025-06-22 23:33:40 #3 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-06-22 23:33:40 #4 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-06-22 23:33:41 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-06-22 23:33:41 #6 type] 
+Type domain.Instalacion is not enhanced.
+
+[2025-06-22 23:33:41 #7 type] 
+Type domain.Encargado is not enhanced.
+
+[2025-06-22 23:34:20 #3 store] 
+Database 'C:\Users\ander\eclipse-workspace\Kirol4ALL\src\main\resources\db\src\main\resources\Kirol4ALL.temp' is closed by 7328@AnderPC
+

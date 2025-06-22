@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <businessLogic local="false"> 
+	<businessLogicNode>127.0.0.1</businessLogicNode>
+	<businessLogicPort>1099</businessLogicPort>
+	<businessLogicName>Kirol4ALL</businessLogicName>
+  </businessLogic>
+  <database local="false" initialize="false">
+	<databaseNode>127.0.0.1</databaseNode>
+	<dbFilename>src/main/resources/Kirol4ALL.temp</dbFilename>
+	<databasePort>6136</databasePort>
+	<user>admin</user>
+	<password>admin</password>
+  </database>
+  <locale>en</locale>
+</config>

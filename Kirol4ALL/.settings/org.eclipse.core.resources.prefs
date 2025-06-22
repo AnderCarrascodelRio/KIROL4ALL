@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/main/java/businessLogic/BLFacade.java=UTF-8
+encoding//src/main/java/configuration/SesionTableModel.java=UTF-8
+encoding//src/main/java/dataAccess/DataAccess.java=UTF-8
+encoding//src/main/java/dataAccess/ObjectdbManagerServer.java=UTF-8
+encoding//src/main/java/domain/Reserva.java=UTF-8
+encoding//src/main/java/gui/AnadirTarjetaGUI.java=UTF-8
+encoding//src/main/java/gui/ApplicationLauncher.java=UTF-8
+encoding//src/main/java/gui/ConsultarSesionesGUI.java=UTF-8
+encoding//src/main/java/gui/CrearActividadGUI.java=UTF-8
+encoding//src/main/java/gui/HacerLoginGUI.java=UTF-8
+encoding//src/main/java/gui/PlanificarSesionesGUI.java=UTF-8
+encoding//src/main/java/gui/PrincipalGUI.java=UTF-8
+encoding//src/main/java/gui/ReservarSesionesGUI.java=UTF-8
